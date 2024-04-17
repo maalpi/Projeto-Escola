@@ -1,0 +1,8 @@
+const { resolve } = require('path');
+
+module.exports = {
+  config: resolve(__dirname,'src','config','database.js'), //caminho da configuração do banco de dados
+  'models-path': resolve(__dirname,'src','models'), // caminho para o diretorio que tem os modelos de dados, os modelos são responsáveis por interagir com o banco de dados, incluindo operações de leitura, escrita e manipulação de dados.
+  'migrations-path': resolve(__dirname,'src','database','migrations'), //salva as datas da alterações da database
+  'seeders-path': resolve(__dirname,'src','database','seeds') //Os seeders são usados para popular o banco de dados com dados de teste ou dados iniciais.
+};
