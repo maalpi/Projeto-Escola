@@ -1,3 +1,4 @@
-## YouTube Overview
+## Video mostrando funcionamento
 
-[![Ardalis.GuardClauses on YouTube](http://img.youtube.com/vi/KJLpwTA741c/0.jpg)](https://www.youtube.com/watch?v=KJLpwTA741c&feature=youtu.be "Improve Your Code with Ardalis.GuardClauses")
+https://github.com/user-attachments/assets/483e0603-2376-4526-9b9e-0df769b15bca
+
